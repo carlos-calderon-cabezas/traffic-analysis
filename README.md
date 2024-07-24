@@ -1,5 +1,8 @@
 # Análisis y Predicciones de Datos de Tráfico Vehicular
 
+![image](https://github.com/user-attachments/assets/45336690-769a-4dec-a385-a87ede89dd79)
+
+
 El presente proyecto es una demostración breve y sencilla del análisis de datos y las predicciones de tráfico vehicular que yo realizaba para una empresa importante en Ecuador, dedicada a los estudios, planificación y construcción de proyectos de infraestructura vial. En este caso concreto, se trataba de la ampliación de una carretera.
 
 Dadas las políticas de confidencialidad de la empresa en cuanto a los datos del proyecto, no me es posible incluir el total de parámetros obtenidos por este sensor, ni todas las variables que formaron parte del estudio, ni proporcionar la ubicación exacta del mismo. Asimismo, se han modificado intencionalmente parte de los datos que se muestran aquí.
