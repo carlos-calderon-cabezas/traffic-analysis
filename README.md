@@ -13,3 +13,23 @@ Adicionalmente, se tiene un conjunto de datos correspondiente al estado del clim
 En el proyecto se analizan datos como, por ejemplo, la cantidad de vehículos que pasan a determinada hora o los días de la semana con más vehículos de un cierto tipo, etc.
 
 En el análisis predictivo de este proyecto, se estudia el comportamiento del flujo vehicular influenciado por el día de la semana, la hora y el estado del clima actual.
+
+## Contenido del proyecto
+
+- Jupyter Notebook de Google Colab escrito en Python.
+- Carpeta `input` con los siguientes datasets de entrada:
+   - Dataset `norte_sur_df.csv` con mediciones tráfico vehicular realizadas con sensor de tráfico *MetroCount RoadPod VT*.
+   - Dataset `weather_df.csv` con datos históricos de clima tomados durante el tiempo de medición de tráfico.
+
+
+## Instrucciones de uso
+
+Para utilizar este proyecto es necesario seguir estos pasos:
+
+1. Clonar el repositorio o descargar todos los archivos.
+2. Asegurarse de tener instaladas las dependencias necesarias, como Jupyter Notebook y las bibliotecas de Python utilizada en los notebooks, incluyendo *pandas*, *matplotlib* y *seaborn*.
+3. Abrir el archivo `Traffic_analysis.ipynb` en Jupyter Notebook o JupyterLab.
+4. Ejecutar las celdas del notebook para ver los análisis y predicciones.
+
+No es necesario instalar software adicional ni configurar el entorno más allá de tener Jupyter y las librerías de Python previamente descritas.
+
