@@ -27,7 +27,7 @@ En el análisis predictivo de este proyecto, se estudia el comportamiento del fl
 
 ## Contenido del proyecto
 
-- Jupyter Notebook de Google Colab escrito en Python.
+- `Traffic_analysis.ipynb`: Jupyter Notebook de Google Colab escrito en Python.
 - Carpeta `input` con los siguientes datasets de entrada:
    - Dataset `norte_sur_df.csv` con mediciones tráfico vehicular realizadas con sensor de tráfico *MetroCount RoadPod VT*.
    - Dataset `weather_df.csv` con datos históricos de clima tomados durante el tiempo de medición de tráfico.
