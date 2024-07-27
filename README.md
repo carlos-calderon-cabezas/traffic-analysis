@@ -2,6 +2,14 @@
 
 ![image](https://github.com/user-attachments/assets/45336690-769a-4dec-a385-a87ede89dd79)
 
+## Tabla de Contenidos
+
+- [Descripción del proyecto](#descripción-del-proyecto)
+- [Contenido del proyecto](#contenido-del-proyecto)
+- [Instrucciones de uso](#instrucciones-de-uso)
+- [Breve resumen de conclusiones y recomendaciones](#breve-resumen-de-conclusiones-y-recomendaciones)
+
+## Descripción del proyecto
 
 El presente proyecto es una demostración breve y sencilla del análisis de datos y las predicciones de tráfico vehicular que yo realizaba para una empresa importante en Ecuador, dedicada a los estudios, planificación y construcción de proyectos de infraestructura vial. En este caso concreto, se trataba de la ampliación de una carretera.
 
@@ -36,3 +44,10 @@ Para utilizar este proyecto es necesario seguir estos pasos:
 
 No es necesario instalar software adicional ni configurar el entorno más allá de tener Jupyter y las librerías de Python previamente descritas.
 
+## Breve resumen de conclusiones y recomendaciones
+
+- Se realizó un histograma para analizar la velocidad promedio, y se vio que la gran mayoría de vehículos circulan a velocidades entre 65 y 75 kilómetros por hora, dado que al estar el sensor de tráfico en una zona urbana y el límite de velocidad es de 50 km/h, se recomienda colocar dispositivos rompevelocidades en el centro del poblado, así como solicitar a la autoridad de tránsito competente la colocación de un radar de velocidad para infraccionar a los conductores que no respeten el límite.
+- Se pudo observar que existe un volumen considerable de tránsito pesado que circula por las madrugadas, especialmente entre 11 de la noche y 3 de la mañana, por lo cual se recomienda solicitar a la autoridad de tránsito competente mantener el semáforo encendido y activo durante las 24 horas del día, debido a que entre 12 y 5 de la mañana, este se apaga. Esto va a majorar la seguridad, especialmente de peatones y vehículos que cruzan por las calles transversales y podrá reducir el número de accidentes.
+- Se realizó un breve estudio de la posible recaudación de la nueva estación de peaje que la consecionaria planea construir, y dada la fuerte afluencia de vehículos pesados y la tarifa elevada que estos deben pagar, se estima un recaudación mensual de USD 320.000 al mes, por lo cual con lo recuadado, se recomienda a la consecionaria mantener en óptimas condiciones tanto la superficie asfáltica, así como la señalética vial para incentivar a los conductores que tomen esa vía y no rutas alternas.
+- Se realizó un análisis predictivo de la flota vehícular para predecir el tráfico máximo que puede llegar a tener en los próximos 30 años, analizando varias variables adicionales, incluyendo índices económicos del país, el crecimiento del parque automotor, entre otras variables, y se estima un flujo vehicular solo en tránsito pesado de aproximadamente 15.000 vehículos pesados en el día después de 30 años. Sin embargo por motivos de confidencialidad del proyecto, no se permite mostrar todos los detalles del estudio realizado.
+  - Este modelo predictivo permitió recomendar a la consecionaria ampliar la carretera existente que es de 1 carril por sentido, hasta 3 carriles por sentido de circulación, así como cumplir con ciertos parámetros para la compra de materiales, maquinaria, la cantidad de excavaciones que deben realizarse por tramo y las técnicas de construcción que se deben emplear.
