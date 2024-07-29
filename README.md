@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/45336690-769a-4dec-a385-a87ede89dd79)
 
+[**Click here for the english version**](https://github.com/carlos-calderon-cabezas/traffic-analysis/blob/main/README_EN.md)
+
 ## Tabla de Contenidos
 
 - [Descripción del proyecto](#descripción-del-proyecto)
