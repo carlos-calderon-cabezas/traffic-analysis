@@ -1,6 +1,6 @@
 # Análisis y Predicciones de Datos de Tráfico Vehicular
 
-![image](https://github.com/user-attachments/assets/45336690-769a-4dec-a385-a87ede89dd79)
+![analisis-de-trafico-portada](https://github.com/user-attachments/assets/1fd36ede-dd41-44c8-b17e-f85cab56f977)
 
 [**Click here for the english version**](https://github.com/carlos-calderon-cabezas/traffic-analysis/blob/main/README_EN.md)
 
